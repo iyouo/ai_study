@@ -1,0 +1,8 @@
+{
+  "total": 3,
+  "sucess": 2,
+  "failed": 1,
+  "failed_files": [
+    "user2.json"
+  ]
+}
